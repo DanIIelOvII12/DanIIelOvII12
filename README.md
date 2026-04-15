@@ -1,13 +1,12 @@
 <h1 align="center">👨‍💻 Daniel Oviedo</h1>
 
 <p align="center">
-  Desarrollador en formación enfocado en backend, con bases sólidas en lógica y programación
+Desarrollador en formación enfocado en backend, con bases sólidas en lógica y programación
 </p>
 
 <p align="center">
-  <img src= "https://media1.tenor.com/m/2vTh9nzaslwAAAAC/crash-bandicoot-dance.gif" width="200px">
+<img src="https://media.tenor.com/2vTh9nzaslwAAAAC/crash-bandicoot-dance.gif" width="200px">
 </p>
-
 ---
 
 ## 🧠 Sobre mí
