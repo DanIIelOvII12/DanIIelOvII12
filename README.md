@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/9vRAkntogEMAAAAC/crash-bandicoot-dancing.gif" width="200px">
+  <img src="https://media1.tenor.com/m/D4_GaCBM_HUAAAAC/crash-bandicoot-dance.gif" width="200px">
 </p>
 
 ---
