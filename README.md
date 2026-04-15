@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Daniel Alexander Oviedo</h1>
 
-<!--
-**DanIIelOvII12/DanIIelOvII12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desarrollador en formación enfocado en backend, con bases sólidas en lógica y programación
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.tenor.com/3XcR0iYk1tQAAAAC/crash-bandicoot-dance.gif" width="200px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mí
+
+Soy un desarrollador en formación que construye desde la lógica, no solo desde la interfaz.
+
+Me enfoco en entender cómo funcionan las cosas antes de implementarlas. Mi aprendizaje gira alrededor de la programación estructurada, la **resolución de problemas y la construcción de código claro, organizado y escalable.
+
+Actualmente estoy desarrollando mis habilidades en backend, comprendiendo la lógica del servidor, bases de datos y cómo se conectan los sistemas, fortaleciendo mis bases en programación para crecer como desarrollador sólido.
+
+---
+
+## ⚙️ Stack Tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Enfoque-Backend-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Base-Lógica%20y%20Programación-black?style=for-the-badge">
+</p>
+
+---
+
+## 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidYate777&show_icons=true&theme=tokyonight&hide_border=true" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidYate777&theme=tokyonight&hide_border=true" height="150px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidYate777&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
+</p>
+
+---
+
+## 🧩 Actualmente enfocado en
+
+- Mejorar mi lógica de programación y resolución de problemas  
+- Desarrollo de sistemas backend y manejo de bases de datos  
+- Comprender mejor la conexión entre frontend y backend  
+- Escribir código más eficiente, legible y estructurado  
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:davidyapul02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Filosofía
+
+> "No se trata solo de escribir código, sino de entenderlo, optimizarlo y hacerlo evolucionar."
