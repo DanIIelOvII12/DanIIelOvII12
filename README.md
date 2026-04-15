@@ -1,11 +1,11 @@
-<h1 align="center">👨‍💻 Daniel Alexander Oviedo</h1>
+<h1 align="center">👨‍💻 Daniel Oviedo</h1>
 
 <p align="center">
   Desarrollador en formación enfocado en backend, con bases sólidas en lógica y programación
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/3XcR0iYk1tQAAAAC/crash-bandicoot-dance.gif" width="200px">
+  <img src="https://media.tenor.com/9vRAkntogEMAAAAC/crash-bandicoot-dancing.gif" width="200px">
 </p>
 
 ---
@@ -23,7 +23,7 @@ Actualmente estoy desarrollando mis habilidades en backend, comprendiendo la ló
 ## ⚙️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,git,github,vscode,mysql" />
 </p>
 
 <p align="center">
