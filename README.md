@@ -1,19 +1,20 @@
 <h1 align="center">👨‍💻 Daniel Oviedo</h1>
 
 <p align="center">
-Desarrollador en formación enfocado en backend, con bases sólidas en lógica y programación
+  Desarrollador en formación enfocado en backend, con bases sólidas en lógica y programación
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/2vTh9nzaslwAAAAC/crash-bandicoot-dance.gif" width="200px">
+  <img src="https://raw.githubusercontent.com/MayFeign/MayFeign/master/crash-bandicoot-dance.gif" width="200px">
 </p>
+
 ---
 
 ## 🧠 Sobre mí
 
 Soy un desarrollador en formación que construye desde la lógica, no solo desde la interfaz.
 
-Me enfoco en entender cómo funcionan las cosas antes de implementarlas. Mi aprendizaje gira alrededor de la programación estructurada, la **resolución de problemas y la construcción de código claro, organizado y escalable.
+Me enfoco en entender cómo funcionan las cosas antes de implementarlas. Mi aprendizaje gira alrededor de la programación estructurada, la **resolución de problemas** y la construcción de código claro, organizado y escalable.
 
 Actualmente estoy desarrollando mis habilidades en backend, comprendiendo la lógica del servidor, bases de datos y cómo se conectan los sistemas, fortaleciendo mis bases en programación para crecer como desarrollador sólido.
 
